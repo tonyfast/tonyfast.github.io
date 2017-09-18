@@ -1,6 +1,8 @@
 ---
 ---
 
-# [C(ode)<del>B</del>)log](/clog)
+# [C(ode)<del>B</del>log](/clog)
 
-# [Wip in progress](/wip)
+## [Wip in progress](/wip)
+
+### [About](/about)
